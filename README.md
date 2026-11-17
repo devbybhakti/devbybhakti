@@ -26,70 +26,38 @@ Information Technology Student | Aspiring Software Developer | Java & DSA Enthus
 </p>
 
 
----
 
 ## 🚀 Featured Projects
 
 ### 🌊 1. FlashGuard
 **AI-Based Flash Flood Prediction System**
 
-A flash flood prediction system designed for hilly regions using multi-source data.
+`STATUS: COMPLETED`
 
-- Analyzes multiple data sources for flood prediction.
-- Focuses on early warning and disaster preparedness.
-- Addresses challenges faced by hilly regions.
+A flash flood prediction system for hilly regions using multi-source data.
 
 ### 🌱 2. GramSetu
 **AI-Driven Business Advisory & Financial Structuring Assistant**
 
-A technology-driven solution designed for rural micro-entrepreneurs.
+`STATUS: COMPLETED`
 
-- Provides hyper-local business advisory support.
-- Assists with financial structuring.
-- Focuses on rural entrepreneurship and business growth.
+A solution supporting rural micro-entrepreneurs with business advisory and financial structuring.
 
 ### ⚖️ 3. Legal Metrology Compliance System
-**Packaged Commodities Compliance Checker**
 
-A software solution for checking compliance with Legal Metrology (Packaged Commodities) Rules, 2011.
+`STATUS: COMPLETED`
 
-- Supports packaged commodity compliance checks.
-- Focuses on labelling and regulatory requirements.
-- Helps simplify compliance verification.
+Software to check packaged commodities compliance under Legal Metrology Rules, 2011.
 
 ### 🤖 4. Real-Time GenAI Customer Service Bot
-**AI-Powered Customer Support System**
 
-A Generative AI-based chatbot designed to provide real-time customer assistance.
+`STATUS: COMPLETED`
 
-- Enables automated customer interactions.
-- Provides conversational support.
-- Uses Generative AI for customer service.
+A Generative AI-powered chatbot for real-time customer support.
 
 ### ✈️ 5. AtithiVerse
 **Personalized Local Travel Experience Platform**
 
-A platform connecting travelers with local experiences based on their preferences and context.
+`STATUS: COMPLETED`
 
-- Personalized recommendations based on time, location and budget.
-- Matches experiences with traveler interests.
-- Helps local providers reach relevant travelers.
-
-### 💻 6. Technology & Development Projects
-**Exploring Software Development and Innovation**
-
-A collection of completed projects demonstrating practical programming and problem-solving skills.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode" />
-</p>
-
----
-
-<p align="center">
-  ✨ Building solutions. Learning continuously. Creating impact. ✨
-</p>
+Connects travelers with local experiences based on time, location, budget and interests.
