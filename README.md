@@ -25,8 +25,6 @@ Information Technology Student | Aspiring Software Developer | Java & DSA Enthus
   <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,mysql,git,github,vscode" />
 </p>
 
----
-
 
 ---
 
@@ -95,4 +93,3 @@ A collection of completed projects demonstrating practical programming and probl
 <p align="center">
   ✨ Building solutions. Learning continuously. Creating impact. ✨
 </p>
-
