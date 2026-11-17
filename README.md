@@ -16,3 +16,11 @@ Information Technology Student | Aspiring Software Developer | Java & DSA Enthus
 - 🎯 Aspiring Software Developer
 - ✨ Always excited to learn new technologies!
 
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,mysql,git,github,vscode" />
+</p>
