@@ -27,41 +27,72 @@ Information Technology Student | Aspiring Software Developer | Java & DSA Enthus
 
 ---
 
+
+---
+
 ## 🚀 Featured Projects
 
-### 🌊 FlashGuard
-**Flash Flood Prediction System for Hilly Regions**
+### 🌊 1. FlashGuard
+**AI-Based Flash Flood Prediction System**
 
-- Predicts potential flash floods using multi-source data.
-- Uses AI-driven analysis to support early warnings.
-- Focuses on improving disaster preparedness in hilly regions.
+A flash flood prediction system designed for hilly regions using multi-source data.
 
-### 🌱 GramSetu
-**AI-Driven Hyper-Local Business Advisory & Financial Structuring Assistant**
+- Analyzes multiple data sources for flood prediction.
+- Focuses on early warning and disaster preparedness.
+- Addresses challenges faced by hilly regions.
 
-- Designed to support rural micro-entrepreneurs.
-- Provides business advisory and financial structuring assistance.
-- Focuses on supporting rural business growth.
+### 🌱 2. GramSetu
+**AI-Driven Business Advisory & Financial Structuring Assistant**
 
-### ⚖️ Legal Metrology Compliance System
+A technology-driven solution designed for rural micro-entrepreneurs.
+
+- Provides hyper-local business advisory support.
+- Assists with financial structuring.
+- Focuses on rural entrepreneurship and business growth.
+
+### ⚖️ 3. Legal Metrology Compliance System
 **Packaged Commodities Compliance Checker**
 
-- Software system to check compliance with Legal Metrology (Packaged Commodities) Rules, 2011.
-- Helps identify packaging and labelling compliance requirements.
+A software solution for checking compliance with Legal Metrology (Packaged Commodities) Rules, 2011.
 
-### 🤖 Real-Time GenAI Customer Service Bot
-- AI-powered customer service chatbot.
-- Designed to provide real-time customer support.
-- Uses Generative AI to improve customer interactions.
+- Supports packaged commodity compliance checks.
+- Focuses on labelling and regulatory requirements.
+- Helps simplify compliance verification.
 
-### ✈️ AtithiVerse
+### 🤖 4. Real-Time GenAI Customer Service Bot
+**AI-Powered Customer Support System**
+
+A Generative AI-based chatbot designed to provide real-time customer assistance.
+
+- Enables automated customer interactions.
+- Provides conversational support.
+- Uses Generative AI for customer service.
+
+### ✈️ 5. AtithiVerse
 **Personalized Local Travel Experience Platform**
 
-- Connects travelers with local experiences.
-- Recommends experiences based on time, location,
-  budget, interests, and context.
+A platform connecting travelers with local experiences based on their preferences and context.
+
+- Personalized recommendations based on time, location and budget.
+- Matches experiences with traveler interests.
 - Helps local providers reach relevant travelers.
 
-### 💡 More Projects
-Exploring innovative solutions through technology,
-AI, software development, and real-world problem solving.
+### 💻 6. Technology & Development Projects
+**Exploring Software Development and Innovation**
+
+A collection of completed projects demonstrating practical programming and problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Building solutions. Learning continuously. Creating impact. ✨
+</p>
+
