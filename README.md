@@ -1,9 +1,6 @@
+# 👋 Hi, I'm Bhakti Ranmale!
 
-<h1 align="center">Hi 👋, I'm Bhakti Ranmale</h1>
-
-<h3 align="center">
-Information Technology Student | Aspiring Software Developer | Java & DSA Enthusiast
-</h3>
+### 🎓 Information Technology Student | Aspiring Software Developer
 
 ---
 
@@ -11,21 +8,20 @@ Information Technology Student | Aspiring Software Developer | Java & DSA Enthus
 
 - 🎓 Information Technology Student
 - 💻 Interested in Software Development
-- 🌱 Currently learning Java and DSA
+- 🌱 Learning Java and Python
 - 🚀 Exploring Web Development
 - 🎯 Aspiring Software Developer
-- ✨ Always excited to learn new technologies!
-
+- ✨ Passionate about learning new technologies and building projects
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" />
 </p>
 
-
+---
 
 ## 🚀 Featured Projects
 
@@ -36,6 +32,10 @@ Information Technology Student | Aspiring Software Developer | Java & DSA Enthus
 
 A flash flood prediction system for hilly regions using multi-source data.
 
+🎥 [Watch FlashGuard Demo Video](https://youtu.be/8ZPWQuroBqM)
+
+---
+
 ### 🌱 2. GramSetu
 **AI-Driven Business Advisory & Financial Structuring Assistant**
 
@@ -43,11 +43,17 @@ A flash flood prediction system for hilly regions using multi-source data.
 
 A solution supporting rural micro-entrepreneurs with business advisory and financial structuring.
 
+🎥 [Watch GramSetu Demo Video](https://youtu.be/xysl8z2nHWY)
+
+---
+
 ### ⚖️ 3. Legal Metrology Compliance System
 
 `STATUS: COMPLETED`
 
 Software to check packaged commodities compliance under Legal Metrology Rules, 2011.
+
+---
 
 ### 🤖 4. Real-Time GenAI Customer Service Bot
 
@@ -55,9 +61,29 @@ Software to check packaged commodities compliance under Legal Metrology Rules, 2
 
 A Generative AI-powered chatbot for real-time customer support.
 
+---
+
 ### ✈️ 5. AtithiVerse
 **Personalized Local Travel Experience Platform**
 
 `STATUS: COMPLETED`
 
 Connects travelers with local experiences based on time, location, budget and interests.
+
+---
+
+## 🌱 My Interests
+
+- Java Programming
+- Python Programming
+- Web Development
+- Problem Solving
+- Software Development
+
+---
+
+## 🤝 Let's Connect!
+
+Thanks for visiting my GitHub profile!
+
+⭐ Always learning, always growing, always building.
